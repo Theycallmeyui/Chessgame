@@ -95,15 +95,15 @@ Tutorial
 
 ---
 
-##Technologies Used
+## Technologies Used
 
-Programming Language: Python
-Game Framework: Pygame
-Graphics: Custom chess pieces and board rendering.
+- **Programming Language**: Python
+- **Game Framework**: Pygame
+- **Graphics**: Custom chess pieces and board rendering.
 
 ---
 
-##License
+## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this project.
 
