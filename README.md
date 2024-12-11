@@ -41,3 +41,11 @@ Chess Game with AI offers an engaging chess-playing experience for users of all 
 - Required Python libraries:
   ```bash
   pip install pygame
+Steps
+1.Clone the repository:
+ ```bash
+git clone <repository_url>
+
+
+
+
