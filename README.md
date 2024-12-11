@@ -55,6 +55,7 @@ Chess Game with AI offers an engaging chess-playing experience for users of all 
    ```bash
    python chess_game.py
 
+---
 
 ## How to Play
 
@@ -73,6 +74,8 @@ Win by capturing the opponent's King.
 Post-Game
 The game displays a "You Win!" or "You Lose!" screen based on the outcome.
 
+---
+
 ##Screenshots
 
 Main Menu
@@ -90,16 +93,20 @@ Tutorial
 
 <img width="908" alt="Screenshot 2024-12-11 at 8 25 33 PM" src="https://github.com/user-attachments/assets/8e4b538c-7fbd-4f0a-b47f-50ddc71515a4">
 
+---
+
 ##Technologies Used
 
 Programming Language: Python
 Game Framework: Pygame
 Graphics: Custom chess pieces and board rendering.
 
+---
+
 ##License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this project.
 
-
+---
 
 
