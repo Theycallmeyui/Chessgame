@@ -109,4 +109,8 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ---
 
+## Acknowledgments
+Pygame Documentation: https://www.pygame.org/docs/
+Chess Resources: General chess rules and mechanics.
+Thank you for exploring Chess Game!
 
