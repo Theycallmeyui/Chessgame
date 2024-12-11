@@ -41,14 +41,22 @@ Chess Game with AI offers an engaging chess-playing experience for users of all 
 - Required Python libraries:
   ```bash
   pip install pygame
-Steps
-1.Clone the repository:
- ```bash
-git clone <repository_url>
+## Steps
 
-2. Navigate to the project directory:
+1. **Clone the repository**:
+   ```bash
+   git clone <repository_url>
+2. **Navigate to the project directory**:
    ```bash
    cd Chess-Game
+
+3. **Run the game**:
+   Execute the following command in your terminal to start the game:
+   ```bash
+   python chess_game.py
+
+
+
 
 
 
