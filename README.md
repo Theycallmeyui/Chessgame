@@ -73,6 +73,22 @@ Win by capturing the opponent's King.
 Post-Game
 The game displays a "You Win!" or "You Lose!" screen based on the outcome.
 
+##Screenshots
+
+Main Menu
+<img width="972" alt="Screenshot 2024-12-11 at 8 23 49 PM" src="https://github.com/user-attachments/assets/3e8180fd-8b2f-42f9-ab53-7ae8de3bace8">
+
+Choosing side
+<img width="879" alt="Screenshot 2024-12-11 at 8 24 09 PM" src="https://github.com/user-attachments/assets/06ffe86f-89bd-4275-a954-4d5e2b4dd17f">
+
+Gameplay
+<img width="983" alt="Screenshot 2024-12-11 at 8 24 31 PM" src="https://github.com/user-attachments/assets/0a2206f1-ad41-4199-b917-df638aafab1a">
+Show captures
+<img width="976" alt="Screenshot 2024-12-11 at 8 24 59 PM" src="https://github.com/user-attachments/assets/53a351f9-ea2c-4912-acb5-593696ba84f9">
+
+Tutorial
+<img width="908" alt="Screenshot 2024-12-11 at 8 25 33 PM" src="https://github.com/user-attachments/assets/8e4b538c-7fbd-4f0a-b47f-50ddc71515a4">
+
 
 
 
