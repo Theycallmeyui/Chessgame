@@ -46,6 +46,9 @@ Steps
  ```bash
 git clone <repository_url>
 
+2. Navigate to the project directory:
+   ```bash
+   cd Chess-Game
 
 
 
