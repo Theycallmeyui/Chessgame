@@ -1,6 +1,6 @@
-# Chess Game with AI
+# Chess Game 
 
-**Chess Game with AI** is a Python-based chess application that allows players to compete against a simple AI or explore chess mechanics. Designed with **Pygame**, this project features a dynamic chessboard, player-side selection, and a tutorial to help beginners get started. ♟️
+**Chess Game** is a Python-based chess application that allows players to compete against a simple AI or explore chess mechanics. Designed with **Pygame**, this project features a dynamic chessboard, player-side selection, and a tutorial to help beginners get started. ♟️
 
 ---
 
