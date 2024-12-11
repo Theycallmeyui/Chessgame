@@ -56,6 +56,22 @@ Chess Game with AI offers an engaging chess-playing experience for users of all 
    python chess_game.py
 
 
+## How to Play
+
+Main Menu
+Start Game: Choose your side (White or Black) and begin the game.
+Tutorial: Learn chess basics and how to play the game.
+Quit: Exit the application.
+
+Gameplay
+Select a piece to view valid moves.
+Click on a valid square to make a move.
+Compete against the AI, which plays the opposite side.
+Track captured pieces on the sidebars.
+Win by capturing the opponent's King.
+
+Post-Game
+The game displays a "You Win!" or "You Lose!" screen based on the outcome.
 
 
 
